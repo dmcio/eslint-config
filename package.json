@@ -1,7 +1,15 @@
 {
   "name": "@dmcio/eslint-config",
+  "description": "SSS style eslint config - with semicolons and A11y",
+  "license": "MIT",
+  "main": "index.js",
   "private": false,
-  "scripts": {},
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "eslint ."
+  },
   "peerDependencies": {
     "eslint": ">= 3"
   }
