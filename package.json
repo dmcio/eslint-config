@@ -1,0 +1,8 @@
+{
+  "name": "@dmcio/eslint-config",
+  "private": false,
+  "scripts": {},
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
